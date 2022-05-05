@@ -2,14 +2,14 @@
 ## This terms of service will explain terms you must agree to, to use Skyglass.
 ### If you do not agree with these terms, please do not use Skyglass.
 `Last Updated May 5th, 2022`
-> **We highly encourage you to disclose this Policy to members upon entry to your server.**
+> **We highly encourage you to disclose these terms to members upon entry to your server.**
 
 The term "The Skyglass Team" refers to 
 - [justin O_O#7876](https://discord.com/users/838605341750591489) 
 - [Addman#1234](https://discord.com/users/351132215700357131) 
 - [Evernote#2755](https://discord.com/users/177750582818242561)
 
-These Terms of Service (“Terms”), which include and hereby incorporate the [Privacy Policy](https://github.com/SkyglassMC/About/blob/main/privacy-policy.md) (“Privacy Policy”), are a agreement between the Skyglass Team ("we", "us", "our") and you ("you" or “your”). 
+These Terms of Service (“Terms”), which include and hereby incorporate the [Privacy Policy](https://github.com/SkyglassMC/About/blob/main/privacy-policy.md) (“Privacy Policy”), are an agreement between the Skyglass Team ("we", "us", "our") and you ("you" or “your”). 
 
 ### **By using Skyglass or it's services, you agree that you are 13 years of age or older and agree to the terms outlined within this document.**
 
