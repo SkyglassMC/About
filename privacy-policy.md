@@ -1,7 +1,7 @@
 # Privacy Policy
 ## This privacy policy will explain what information we collect, why we collect it.
 ### If you do not agree with these terms, please do not use Skyglass.
-
+`Last Updated May 5th, 2022`
 > **We highly encourage you to disclose this Policy to members upon entry to your server.**
 
 The term "The Skyglass Team" refers to 
@@ -10,13 +10,17 @@ The term "The Skyglass Team" refers to
 - [Evernote#2755](https://discord.com/users/177750582818242561)
 
 This privacy policy (“Policy”) describes the data practices of the Skyglass Team in regard to the Skyglass Discord Bot.
+
 Skyglass may collect **USER DATA** and is stored on a server that the bot is hosted on.
 
 __By using any commands or services of Skyglass, you hereby agree to this privacy policy and are giving persmission to allow this data to be obtained.__
 Again, **if you do not agree, please do not use Skyglass.**
 
+## Data Removal
+To have your data collected removed, you can direct message any of the members of the Skyglass Team above using the links provided or by joining the [Skyglass Discord Server](https://discord.gg/j2hWaeC7fv).
 
-List of **USER DATA** collected by Skyglass.
+## List of "USER DATA" collected
+
 | Location        | Type           | Reason  |
 | :-------------: |:-------------:| :-------------:|
 | Commands      | ([Command Context](https://discordpy.readthedocs.io/en/stable/ext/commands/api.html?highlight=context#context), [Username](https://discord.com/developers/docs/game-sdk/users#data-models#Username), [User ID](https://discord.com/developers/docs/game-sdk/users#data-models#Id) & Timestamp)  | We use this data for individual rate-limiting, debugging broken commands, monitoring misuse of Skyglass, and statistical information.  |
@@ -31,3 +35,8 @@ List of **USER DATA** collected by Skyglass.
 
 
 The Skyglass Team will not be liable or held accountable for damages of any magnitude (including, without limitation, damages caused, loss of information or data, or any other indirect, incidental, special or consequential damages) that occur with use of Skyglass.
+
+- [**Invite Skyglass**](https://discord.com/oauth2/authorize?client_id=964452802732654602&scope=bot&permissions=515597921344)
+- [**Terms Of Service**](https://github.com/SkyglassMC/About/blob/main/terms-of-service.md)
+- [**Privacy Policy**](https://github.com/SkyglassMC/About/blob/main/privacy-policy.md)
+- [**Skyglass Discord Invite**](https://discord.gg/udSxn8gDt4)
